@@ -13,4 +13,8 @@ dlkglksdglkdghj;
 ;adjg;ljg;adlsjg
 da;lglkdjg;jdg;aj
 d;kg;ljg;ljg;laj
+<<<<<<< HEAD
 i have made changes in local git
+=======
+I have made changes in git hub
+>>>>>>> 5ee41e558a56616fdafecacf386dc4d2767233bc
