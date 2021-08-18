@@ -16,3 +16,7 @@ d;kg;ljg;ljg;laj
 <<<<<<< HEAD
 i have made changes in local git
 I have made changes in git hub
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
